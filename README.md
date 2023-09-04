@@ -1,2 +1,3 @@
 # FOOD_ORDERING_SYS 
-![Uploading FOOD_ARCHITECTURE (1).png…]()
+
+![FOOD_ARCHITECTURE (1)](https://github.com/Pushkarsuthar9521/FOOD_ORDERING_SYS/assets/79029738/8c55c4a1-4173-43c1-b5d1-f6ed03e2d2d9)
